@@ -7,5 +7,7 @@ public class GitTestdemo {
         System.out.println("modelAndView");
 
     }
-
+    public void test1(){
+        System.out.println("kelsad");
+    }
 }
