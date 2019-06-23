@@ -10,4 +10,7 @@ public class GitTestdemo {
     public void test1(){
         System.out.println("kelsad");
     }
+    public void test2(){
+        System.out.println("demo2");
+    }
 }
